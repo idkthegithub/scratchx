@@ -1,5 +1,2 @@
-# ScratchX is no longer supported 
-#### ScratchX is now archived and no longer supported because Adobe Flash has reached end of life. If you're interested in developing extensions for Scratch, please visit the [Scratch-GUI](https://github.com/scratchfoundation/scratch-gui) repo as a starting point for building a local version of the Scratch editor. It can be linked to your local version of [Scratch-VM](https://github.com/scratchfoundation/scratch-vm), where you can create your own extensions.
-
-## ScratchX
-#### Website for experimental Scratch extensions
+This is a fork of ScratchX. This github repo has it hosted on Github Pages. Visit it here: https://idkthegithub.github.io/scratchx
+Due to the end of life for Flash Player, this site is only useable with a Flash supported browser and Flash Player installed on your system.
